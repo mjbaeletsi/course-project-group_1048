@@ -18,7 +18,7 @@ In exploring the listings data for Airbnb in San Francisco, we hope to find inte
 ## Team Members
 
 - Riley: I'm a 2nd year Computer Science student and I love programming and building cool things.
-- Savreen: I am a 3rd year Econ major. I am really interested in finance.
+- Person 2: one sentence about you!
 - Person 3: one sentence about you!
 
 ## References
