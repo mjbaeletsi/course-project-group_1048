@@ -13,13 +13,13 @@ In exploring the listings data for Airbnb in San Francisco, we hope to find inte
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+This website, “https://www.airbnb.com,” provides a dataset containing detailed information about Airbnbs located in San Francisco, California, USA. The data is in the form of word descriptions and statistical figures. The dataset provides information such as a description of each Airbnb, performance of hosts, neighborhood overview, prices, and a lot more information about each Airbnb. The dataset provides information for the year 2020, although it contains data collected as early as 2013. The primary purpose of this dataset is to provide information that is of public interest. Anyone interested in finding information about Airbnbs in San Francisco can access the website.  The dataset also demonstrates transparency because of how detailed it is. Two methods were used to collect the data. The first method a human collected and uploaded part of the dataset. The second method was through a system of internet reviews from the public. The dataset shows how the reviews were analyzed to give each Airbnb different scores.
 
 ## Team Members
 
 - Riley: I'm a 2nd year Computer Science student and I love programming and building cool things.
 - Savreen: I am a 3rd year Econ major. I am really interested in finance.
-- Person 3: one sentence about you!
+- Motheo: I am 2nd year Econ major and I like learning new things.
 
 ## References
 
